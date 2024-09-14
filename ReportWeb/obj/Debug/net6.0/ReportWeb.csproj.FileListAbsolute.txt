@@ -1,0 +1,14 @@
+F:\ITC\RdlcReportWebApi\ReportWeb\bin\Debug\net6.0\ReportFiles\Report1.rdlc
+F:\ITC\RdlcReportWebApi\ReportWeb\bin\Debug\net6.0\ReportFiles\Report2.rdlc
+F:\ITC\RdlcReportWebApi\ReportWeb\bin\Debug\net6.0\ReportWeb.deps.json
+F:\ITC\RdlcReportWebApi\ReportWeb\bin\Debug\net6.0\ReportWeb.dll
+F:\ITC\RdlcReportWebApi\ReportWeb\bin\Debug\net6.0\ReportWeb.pdb
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ReportWeb.csproj.AssemblyReference.cache
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ReportWeb.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ReportWeb.AssemblyInfoInputs.cache
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ReportWeb.AssemblyInfo.cs
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ReportWeb.csproj.CoreCompileInputs.cache
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ReportWeb.dll
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\refint\ReportWeb.dll
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ReportWeb.pdb
+F:\ITC\RdlcReportWebApi\ReportWeb\obj\Debug\net6.0\ref\ReportWeb.dll
